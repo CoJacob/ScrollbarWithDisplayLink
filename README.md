@@ -1,4 +1,4 @@
-# ScrollbarWithDisplayLink
+# ScrollbarWithDisplayLink (Use Objective-C)
 A iOS scrollBarWithDisplayLink 
 (一个评论滚动的小组件)
 
@@ -21,3 +21,6 @@ Used
  
    3. Use (使用)
       [self.scrollBar startAutoScroll];
+
+  4. Preview (预览)
+       [image](https://github.com/Winerywine/ScrollbarWithDisplayLink/blob/master/ScrollBar_record.gif)
