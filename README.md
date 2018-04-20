@@ -1,6 +1,6 @@
 # ScrollbarWithDisplayLink (Use Objective-C)
 A iOS scrollBarWithDisplayLink 
-(一个评论滚动的小组件)
+(一个评论滚动的小组件,已解决CADisplayLink引起的内存泄漏问题)
 
 Used
 
